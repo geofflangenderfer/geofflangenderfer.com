@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-04-08T16:06:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2020-04-08T16:06:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/whentocontextswitch/</loc>
+    <loc>/posts/whentocontextswitch/</loc>
     <lastmod>2020-04-06T15:13:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-04-06T15:13:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

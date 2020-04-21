@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Geoff on Software</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Geoff on Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Apr 2020 15:13:06 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Knowledge Work Context Switching</title>
-      <link>http://example.org/posts/whentocontextswitch/</link>
+      <link>/posts/whentocontextswitch/</link>
       <pubDate>Mon, 06 Apr 2020 15:13:06 -0500</pubDate>
       
-      <guid>http://example.org/posts/whentocontextswitch/</guid>
-      <description>Motivation I&amp;rsquo;m on Leetcode, a technical software interview practice site. I&amp;rsquo;ve submitted my fifth attempt at an algorithm problem. It&amp;rsquo;s incorrect.</description>
+      <guid>/posts/whentocontextswitch/</guid>
+      <description>Table of Contents  Motivation Questions Raised Persever or Switch Context Switching Strategies Measuring Strategy effectiveness Conclusion  Motivation I&amp;rsquo;m on Leetcode, a technical software interview practice site.</description>
     </item>
     
   </channel>

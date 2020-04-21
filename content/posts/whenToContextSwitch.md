@@ -4,10 +4,18 @@ date: 2020-04-06T15:13:06-05:00
 draft: false
 ---
 
-## Motivation
-I'm on Leetcode, a technical software interview practice site. I've submitted my fifth attempt at an algorithm problem. It's incorrect. My stress levels rise. Why can't I figure this out? Am I dumb? 
+## Table of Contents
+- <a href="#motivation">Motivation</a>
+- <a href="#questions-raised">Questions Raised</a>
+- <a href="#persevere-or-switch">Persever or Switch</a>
+- <a href="#context-switching-strategies">Context Switching Strategies</a>
+- <a href="#measuring-strategy-effectiveness">Measuring Strategy effectiveness</a>
+- <a href="#conclusion">Conclusion</a>
 
-Knowledge work can be stressful. This is uncomfortable short-term, but beneficial long-term. The human capital compounds over time. So, it's important to learn to deal with this side effect.
+## Motivation
+I'm on [Leetcode][0], a technical software interview practice site. I've submitted my fifth attempt at an algorithm problem. It's incorrect. My stress levels rise. Why can't I figure this out? Am I dumb? 
+
+Knowledge work can be stressful. This is uncomfortable short-term, but beneficial long-term. Algorithm skills compounds over time. So, it's important to learn to deal with this side effect.
 
 ## Questions Raised
 This short-term stress, long-term benefit raises some questions: 
@@ -35,10 +43,13 @@ A walk reduces stress the most and switching to an unrelated subject the least.
 ## Measuring Strategy effectiveness
 Often you'll receive a serendipitous thought while in your new context. I don't know how to explain it except that it's happened many times. I've also tried persevering while blocked for extreme amounts of time. This has never led to a serendipitous thought. It has left me more defeated though.
 
-Track strategy effectiveness, for example in a journal. For me, I roughly track the time between becoming blocked/unblocked. If one strategy takes longer, it's less effective than a shorter-acting one. You will know an effective strategy if it reduces pleasure-seeking behavior.
+Track strategy effectiveness, for example in a journal. For me, I track time in [deep work][1]. Roughly, the more deep work, the better the strategy. A reduction in pleasure-seeking behavior is also a good sign.
 
 
 ## Conclusion
-Knowing when to switch contexts is hard. You will learn the line between perseverance and switching through experimentation. With time, you will find effective strategies. 
+Knowing when to switch contexts is hard. Don't let analysis paralysis stop you from experimenting. Getting started is more important than picking the most optimal strategy to start. With time and data, you will adapt. 
 
-Compare different treatments by comparing pleasure-seeking behavior and time to unblocking. Short-term, switch contexts sooner than later because perseverance levels are fixed. Long-term, push yourself a bit outside your comfort levels. This will improve your perseverance capacity.
+Compare different strategies by comparing pleasure-seeking behavior and deep work logged. Short-term, switch contexts sooner than later because perseverance levels are fixed. Long-term, push yourself a bit outside your comfort levels. This will improve your perseverance capacity.
+
+[0]: https://leetcode.com/
+[1]: https://www.calnewport.com/books/deep-work/

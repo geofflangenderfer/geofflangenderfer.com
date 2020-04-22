@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoff on Software</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Geoff on Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Apr 2020 16:06:23 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://example.org/about/</link>
       <pubDate>Wed, 08 Apr 2020 16:06:23 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://example.org/about/</guid>
       <description>Bio I&amp;rsquo;m seeking freedom and mastery. Freedom is the option to choose how I spend my time. I&amp;rsquo;m happy with my progress towards mastery if I&amp;rsquo;m proud of my work.</description>
     </item>
     
     <item>
       <title>Knowledge Work Context Switching</title>
-      <link>/posts/whentocontextswitch/</link>
+      <link>http://example.org/posts/whentocontextswitch/</link>
       <pubDate>Mon, 06 Apr 2020 15:13:06 -0500</pubDate>
       
-      <guid>/posts/whentocontextswitch/</guid>
+      <guid>http://example.org/posts/whentocontextswitch/</guid>
       <description>Table of Contents  Motivation Questions Raised Persever or Switch Context Switching Strategies Measuring Strategy effectiveness Conclusion  Motivation I&amp;rsquo;m on Leetcode, a technical software interview practice site.</description>
     </item>
     

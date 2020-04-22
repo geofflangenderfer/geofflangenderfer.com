@@ -1,0 +1,2 @@
+
+https://discourse.gohugo.io/t/solved-hugo-not-rendering-css-but-hugo-server-is/6464/4

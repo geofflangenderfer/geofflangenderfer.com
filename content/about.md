@@ -7,4 +7,4 @@ draft: false
 ## Bio
 I'm seeking freedom and mastery. Freedom is the option to choose how I spend my time. I'm happy with my progress towards mastery if I'm proud of my work.
 
-I'm aiming to master entrepreneurship. Currently, I'm working on development skills. If you've got an idea and you'd like to see its birth, feel free to reach out.
+I'm working on entrepreneurship. And, I'm focusing on development skills now. If you need help from idea --> app, feel free to reach out.

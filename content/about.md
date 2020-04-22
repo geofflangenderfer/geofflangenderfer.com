@@ -5,6 +5,6 @@ draft: false
 ---
 
 ## Bio
-I'm seeking freedom and mastery. Freedom is the option to choose how I spend my time. I'm happy with my progress towards mastery if I'm proud of my work.
+I'm seeking freedom and mastery. Freedom is the option to choose how I spend my time. Approaching mastery means getting slightly better than yesterday.
 
-I'm working on entrepreneurship. And, I'm focusing on development skills now. If you need help from idea --> app, feel free to reach out.
+I'm working on entrepreneurship. And, I'm focusing on development skills now. If you need help going from idea --> app, feel free to reach out through social media.

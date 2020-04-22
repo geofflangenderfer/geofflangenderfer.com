@@ -1,5 +1,5 @@
 # https://github.com/vividvilla/ezhil
-baseURL = "https://geofflangenderfer.netlify.app/"
+baseURL = "https://geofflangenderfer.com"
 languageCode = "en-us"
 title = "Geoff on Software"
 theme = "ezhil"

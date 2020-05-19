@@ -7,19 +7,19 @@ draft: false
 ## Table of Contents
 - <a href="#motivation">Motivation</a>
 - <a href="#questions-raised">Questions Raised</a>
-- <a href="#persevere-or-switch">Persever or Switch</a>
+- <a href="#persevere-or-switch">Persevere or Switch</a>
 - <a href="#context-switching-strategies">Context Switching Strategies</a>
 - <a href="#measuring-strategy-effectiveness">Measuring Strategy effectiveness</a>
 - <a href="#conclusion">Conclusion</a>
 
 ## Motivation
-I'm on [Leetcode][0], a technical software interview practice site. I've submitted my fifth attempt at an algorithm problem. It's incorrect. My stress levels rise. Why can't I figure this out? Am I dumb? 
+I'm on [Leetcode][0], a technical software interview practice site. I've submitted my fifth attempt at an algorithm problem. It's incorrect. My stress levels rise. Why can't I figure this out? Am I dumb?
 
 Knowledge work can be stressful. This is uncomfortable short-term, but beneficial long-term. Algorithm skills compounds over time. So, it's important to learn to deal with this side effect.
 
 ## Questions Raised
-This short-term stress, long-term benefit raises some questions: 
-- should you persevere or switch contexts to something less stressful? 
+This short-term stress, long-term benefit raises some questions:
+- should you persevere or switch contexts to something less stressful?
 - how do you switch contexts?
 - how do you know what works?
 
@@ -47,7 +47,7 @@ Track strategy effectiveness, for example in a journal. For me, I track time in 
 
 
 ## Conclusion
-Knowing when to switch contexts is hard. Don't let analysis paralysis stop you from experimenting. Getting started is more important than picking the most optimal strategy to start. With time and data, you will adapt. 
+Knowing when to switch contexts is hard. Don't let analysis paralysis stop you from experimenting. Getting started is more important than picking the most optimal strategy to start. With time and data, you will adapt.
 
 Compare different strategies by comparing pleasure-seeking behavior and deep work logged. Short-term, switch contexts sooner than later because perseverance levels are fixed. Long-term, push yourself a bit outside your comfort levels. This will improve your perseverance capacity.
 

@@ -2,31 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geoff on Software</title>
-    <link>/</link>
+    <link>geofflangenderfer.com/</link>
     <description>Recent content on Geoff on Software</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Apr 2020 16:06:23 -0500</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="geofflangenderfer.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Terminal/Intellij VCS Conflict</title>
+      <link>geofflangenderfer.com/posts/terminalintellijvcsconflict/</link>
+      <pubDate>Tue, 19 May 2020 11:28:06 -0500</pubDate>
+      
+      <guid>geofflangenderfer.com/posts/terminalintellijvcsconflict/</guid>
+      <description>Intellij creates a file .idea/vcs.xml to track what it&amp;rsquo;s doing with VCS. This creates a conflict if you manage VCS via command line as well.</description>
+    </item>
+    
+    <item>
+      <title>How To Learn Kotlin</title>
+      <link>geofflangenderfer.com/posts/howtolearnkotlin/</link>
+      <pubDate>Tue, 21 Apr 2020 16:54:45 -0500</pubDate>
+      
+      <guid>geofflangenderfer.com/posts/howtolearnkotlin/</guid>
+      <description>Kotlin is still new, so there isn&amp;rsquo;t the body of tutorials available compared to established languages like Java or Python.</description>
+    </item>
+    
+    <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>geofflangenderfer.com/about/</link>
       <pubDate>Wed, 08 Apr 2020 16:06:23 -0500</pubDate>
       
-      <guid>/about/</guid>
+      <guid>geofflangenderfer.com/about/</guid>
       <description>Bio I&amp;rsquo;m seeking freedom and mastery. Freedom is the option to choose how I spend my time. Approaching mastery means getting slightly better than yesterday.</description>
     </item>
     
     <item>
       <title>Knowledge Work Context Switching</title>
-      <link>/posts/whentocontextswitch/</link>
+      <link>geofflangenderfer.com/posts/whentocontextswitch/</link>
       <pubDate>Mon, 06 Apr 2020 15:13:06 -0500</pubDate>
       
-      <guid>/posts/whentocontextswitch/</guid>
+      <guid>geofflangenderfer.com/posts/whentocontextswitch/</guid>
       <description>Table of Contents  Motivation Questions Raised Persever or Switch Context Switching Strategies Measuring Strategy effectiveness Conclusion  Motivation I&amp;rsquo;m on Leetcode, a technical software interview practice site.</description>
+    </item>
+    
+    <item>
+      <title>SelfieLog</title>
+      <link>geofflangenderfer.com/posts/selfielog/</link>
+      <pubDate>Thu, 26 Mar 2020 12:34:42 -0500</pubDate>
+      
+      <guid>geofflangenderfer.com/posts/selfielog/</guid>
+      <description>New app idea Problem switching contexts between workout focus and data collection breaks flow
+Solution separate these two concerns. Track physical progress through post-workout mirror selfies.</description>
     </item>
     
   </channel>

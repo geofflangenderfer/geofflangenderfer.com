@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>geofflangenderfer.com/posts/</loc>
+    <lastmod>2020-05-19T11:28:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>geofflangenderfer.com/posts/terminalintellijvcsconflict/</loc>
+    <lastmod>2020-05-19T11:28:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>geofflangenderfer.com/posts/howtolearnkotlin/</loc>
+    <lastmod>2020-04-21T16:54:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>geofflangenderfer.com/about/</loc>
     <lastmod>2020-04-08T16:06:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>geofflangenderfer.com/</loc>
     <lastmod>2020-04-08T16:06:23-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/whentocontextswitch/</loc>
+    <loc>geofflangenderfer.com/posts/whentocontextswitch/</loc>
     <lastmod>2020-04-06T15:13:06-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-04-06T15:13:06-05:00</lastmod>
+    <loc>geofflangenderfer.com/posts/selfielog/</loc>
+    <lastmod>2020-03-26T12:34:42-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>geofflangenderfer.com/tags/</loc>
   </url>
   
 </urlset>

@@ -1,5 +1,5 @@
 # https://github.com/vividvilla/ezhil
-baseURL = "http://geofflangenderfer.com"
+baseURL = "http://geofflangenderfer.com/"
 languageCode = "en-us"
 title = "Geoff on Software"
 theme = "ezhil"

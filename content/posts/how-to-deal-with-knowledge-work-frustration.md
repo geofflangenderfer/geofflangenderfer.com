@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Work Context Switching"
+title: "How To Deal With Knowledge Work Frustration"
 date: 2020-04-06T15:13:06-05:00
 draft: false
 ---

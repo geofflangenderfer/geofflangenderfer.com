@@ -22,24 +22,24 @@
 	{{- template "_internal/twitter_cards.html" . -}}
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:200,300" rel="stylesheet">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="http://geofflangenderfer.com/css/normalize.css" />
-	<link rel="stylesheet" type="text/css" media="screen" href="http://geofflangenderfer.com/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
 	{{- if isset .Site.Params "customcss" }}
-	<link rel="stylesheet" type="text/css" href="http://geofflangenderfer.com/{{ .Site.Params.customCSS }}" />
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customCSS }}" />
 	{{ end }}
 	{{- if or (eq .Site.Params.mode "auto") (eq .Site.Params.mode "dark") -}}
-	<link rel="stylesheet" type="text/css" href="http://geofflangenderfer.com/css/dark.css" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/dark.css" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
 	{{- if isset .Site.Params "customdarkcss" }}
-	<link rel="stylesheet" type="text/css" href="http://geofflangenderfer.com/{{ .Site.Params.customDarkCSS }}" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
+	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}{{ .Site.Params.customDarkCSS }}" {{ if eq .Site.Params.mode "auto" }}media="(prefers-color-scheme: dark)"{{ end }} />
 	{{- end }}
 	{{- end }}
 
 	{{ if and (isset .Site.Params "social") (isset .Site.Params "feathericonscdn") (eq .Site.Params.featherIconsCDN true) -}}
 	<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 	{{- else if (isset .Site.Params "social") -}}
-	<script src="http://geofflangenderfer.com/js/feather.min.js"></script>
+	<script src="{{ .Site.BaseURL }}js/feather.min.js"></script>
 	{{ end }}
-	<script src="http://geofflangenderfer.com/js/main.js"></script>
+	<script src="{{ .Site.BaseURL }}js/main.js"></script>
 	{{- if isset .Site.Params "customjs" -}}
 	{{- range .Site.Params.customJS }}
 	{{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}

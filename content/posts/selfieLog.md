@@ -1,7 +1,7 @@
 ---
 title: "SelfieLog"
 date: 2020-03-26T12:34:42-05:00
-draft: true
+draft: false
 ---
 
 # New app idea
@@ -32,14 +32,14 @@ separate these two concerns. Track physical progress through post-workout mirror
 - day 30:
   - take last selfie
   - get a slide-reel from day 1-30 showing progress
-  - congratulate user for making it 
+  - congratulate user for making it
   - highlight differences in day 1/30 photos
 
 ## Experiment: 30 day work from home fitness challenge
 ### Goal
 dis/prove that breaking workout flow with data logging is annoying enough that people would pay for a solution
 ### Steps
-- build basic prototype 
+- build basic prototype
 - use for 30 days
 - document with youtube
-- promote signup page to collect emails 
+- promote signup page to collect emails

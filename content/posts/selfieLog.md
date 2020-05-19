@@ -15,8 +15,6 @@ separate these two concerns. Track physical progress through post-workout mirror
 
 ## Benefits
 - avoids interrupting workout with data collection
-- at least equal to other logs in progress tracking over time
-  - tracks physical progress through photo evidence
 - reminds you not to break your selfie streak
 - gives shareable physical progress slidereel after 30 days
 
@@ -38,6 +36,7 @@ separate these two concerns. Track physical progress through post-workout mirror
 ## Experiment: 30 day work from home fitness challenge
 ### Goal
 dis/prove that breaking workout flow with data logging is annoying enough that people would pay for a solution
+
 ### Steps
 - build basic prototype
 - use for 30 days

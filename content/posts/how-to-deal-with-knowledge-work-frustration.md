@@ -15,7 +15,7 @@ draft: false
 ## Motivation
 I'm on [Leetcode][0], a technical software interview practice site. I've submitted my fifth attempt at an algorithm problem. It's incorrect. My stress levels rise. Why can't I figure this out? Am I dumb?
 
-Knowledge work can be stressful. This is uncomfortable short-term, but beneficial long-term. Algorithm skills compounds over time. So, it's important to learn to deal with this side effect.
+Knowledge work can be stressful. This is uncomfortable short-term, but beneficial long-term. These skills compound over time. So, it's important to learn to deal with this side effect.
 
 ## Questions Raised
 This short-term stress, long-term benefit raises some questions:
@@ -40,7 +40,7 @@ When I recognize frustration, I attempt one of the following:
 
 A walk reduces stress the most and switching to an unrelated subject the least.
 
-## Measuring Strategy effectiveness
+## Measuring Strategy Effectiveness
 Often you'll receive a serendipitous thought while in your new context. I don't know how to explain it except that it's happened many times. I've also tried persevering while blocked for extreme amounts of time. This has never led to a serendipitous thought. It has left me more defeated though.
 
 Track strategy effectiveness, for example in a journal. For me, I track time in [deep work][1]. Roughly, the more deep work, the better the strategy. A reduction in pleasure-seeking behavior is also a good sign.

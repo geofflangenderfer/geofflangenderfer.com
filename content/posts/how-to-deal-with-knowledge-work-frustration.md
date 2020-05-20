@@ -49,7 +49,7 @@ Track strategy effectiveness, for example in a journal. For me, I track time in 
 ## Conclusion
 Knowing when to switch contexts is hard. Don't let analysis paralysis stop you from experimenting. Getting started is more important than picking the most optimal strategy. With time and data, you will adapt.
 
-Compare different strategies by comparing pleasure-seeking behavior and deep work logged. Short-term, switch contexts sooner than later because perseverance levels are fixed. Long-term, push yourself a bit outside your comfort levels. This will improve your perseverance capacity.
+Compare different strategies by measuring pleasure-seeking behavior and deep work. Short-term, switch contexts sooner than later because perseverance levels are fixed. Long-term, push yourself a bit outside your comfort levels. This will improve your perseverance capacity.
 
 [0]: https://leetcode.com/
 [1]: https://www.calnewport.com/books/deep-work/

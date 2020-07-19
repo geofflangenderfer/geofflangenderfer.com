@@ -29,4 +29,4 @@ draft: true
     - Dating market competition is getting more money/recognition
     - I'm an easy scapegoat because of low agreeableness
 
-
+[test link](../../how-to-sell-apps-with-influence.md)

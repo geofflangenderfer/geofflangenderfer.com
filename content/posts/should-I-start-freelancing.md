@@ -20,6 +20,7 @@ I recommend it because it gives you job-loss insurance
 - insurance against job-loss
 - Practice skills needed to start a business (marketing, sales)
 - freedom over: hours, pay rate, location
+- high pay-rates for in-demand, niche skills are possible
 - remote work is a rising wave. Get started now to ride it
   - CDC restrictions will push companies to give up offices
     - https://www.cdc.gov/coronavirus/2019-ncov/community/office-buildings.html

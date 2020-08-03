@@ -5,6 +5,10 @@ draft: false
 ---
 
 ## Bio
-I'm seeking freedom and mastery. Freedom is the option to choose how I spend my time. Approaching mastery means getting slightly better than yesterday.
+In 2017, I read about AI beating professional poker pros. I felt a stab of fear. My work as a trader was similar. I thought: am I next?
 
-I'm working on entrepreneurship. And, I'm focusing on development skills now. If you need help going from idea --> app, feel free to reach out through social media.
+I channeled that fear into teaching myself to code. I moved to Medellin, Colombia and got busy grinding youtube tutorials. This led to paid freelance work through Upwork and a bootcamp TA position at the University of Texas.
+
+I learned that fear is a signal for change. I harnessed it to propel myself forward. And, I learned I'm more powerful than I thought.
+
+Feel free to reach out if you're facing similar fears and not sure what's next.

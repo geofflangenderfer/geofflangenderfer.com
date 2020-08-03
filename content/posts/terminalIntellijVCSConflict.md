@@ -1,7 +1,7 @@
 ---
 title: "Terminal/Intellij VCS Conflict"
 date: 2020-05-19T11:28:06-05:00
-draft: false
+draft: true
 ---
 
 

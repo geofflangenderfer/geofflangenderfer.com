@@ -1,7 +1,7 @@
 ---
 title: "Should I Start Freelancing"
 date: 2020-05-29T15:54:05-05:00
-draft: false
+draft: true
 ---
 # Hot Take
 This is an evolving article. Currently, a hot take. I'll be researching and

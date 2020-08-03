@@ -1,7 +1,7 @@
 ---
 title: "SelfieLog"
 date: 2020-03-26T12:34:42-05:00
-draft: false
+draft: true
 ---
 
 # New app idea

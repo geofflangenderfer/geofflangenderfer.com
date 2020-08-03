@@ -1,7 +1,7 @@
 ---
 title: "How To Learn Kotlin"
 date: 2020-04-21T16:54:45-05:00
-draft: false
+draft: true
 ---
 
 - Kotlin is still new, so there isn't the body of tutorials available compared to established languages like Java or Python.

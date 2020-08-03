@@ -1,7 +1,7 @@
 ---
 title: "Fear of Change"
 date: 2020-08-03T11:52:54-05:00
-draft: true
+draft: false
 ---
 
 In 2017, I read about AI beating professional poker pros. I felt a stab of fear. My work as a trader was similar. I thought: am I next?

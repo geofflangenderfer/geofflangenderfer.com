@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Build an Audience"
 date: 2020-09-17T20:38:01-05:00
-draft: true
+draft: false
 ---
 
 # Intro
@@ -19,6 +19,7 @@ It's not the right choice for everyone. But everyone should consider it.
 - <a href="#low-barriers-to-entry">Low Barriers to Entry</a>
 - <a href="#a-wealth-ladder-stepping-stone">A Wealth Ladder Stepping Stone</a>
 - <a href="#less-risky-compared-to-saas">Less Risky Compared to SAAS</a>
+- <a href="#conclusion">Conclusion</a>
 
 ### Shoot for Ikigai
 Ikigai is the Japanese word for "a reason for being". It's the intersection of:

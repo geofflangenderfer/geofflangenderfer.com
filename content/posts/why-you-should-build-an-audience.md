@@ -51,6 +51,8 @@ This long-tail of micro content-creators is made possible by large tech giants t
 
 An audience is an accelerator as you climb [wealth ladders][4]. The idea is that you start on the first ladder as an employee. You gain skills and savings on each ladder to propel yourself to the next. The highest ladder is software-as-a-service (SAAS). True passive income and leverage.
 
+You must consider the worst case scenario before choosing this path. As you move to the next ladder, you need to build new skills. Replacing your previous income could take 1-3 years. If this is a dealbreaker, do not shoot for another ladder.
+
 When you build an audience, you're building relationships that lead to sustainability. Your readers enjoy your content. Maybe because you teach them a valuable skill. Maybe for entertainment. The more they read the more they like you. They will support you when you monetize because that's what friends do. A beautiful voluntary exchange. 
 
 ### Less Risky Compared to SAAS

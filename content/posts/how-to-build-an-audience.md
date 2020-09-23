@@ -47,7 +47,7 @@ At this point, he wanted a new challenge. He could stay on the info product ladd
 
 He started building an email marketing software called ConvertKit. He ran into a problem: his content promotion playbook wasn't working. A year later, his savings had dwindled and he faced a decision to shut down ConvertKit or go all-in. He went all-in and added direct sales to his blog promotion. ConvertKit took off. 
 
-Nathan's audience propelled him through the <a href="https://geofflangenderfer.com/posts/why-you-should-build-an-audience/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>. It was crucial to his info product success. He built skills and cash reserves that helped to withstand ConvertKit's delayed takeoff.
+Nathan's audience propelled him through the <a href="https://geofflangenderfer.com/posts/why-you-should-go-freelance/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>. It was crucial to his info product success. He built skills and cash reserves that helped to withstand ConvertKit's delayed takeoff.
 
 ### Flavio Copes
 Flavio Copes is a prolific JavaScript developer and blogger. He has blogged everyday for 2 years. The JavaScript teaching market is competitive. The keys to his success are: 
@@ -74,7 +74,7 @@ Brennan Dunn has been:
 - sold info products
 - and is currently running a SAAS business. 
 
-He's climbed all the <a href="https://geofflangenderfer.com/posts/why-you-should-build-an-audience/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>, so he has much to teach. He combines offline and online in his audience building strategy.
+He's climbed all the <a href="https://geofflangenderfer.com/posts/why-you-should-go-freelance/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>, so he has much to teach. He combines offline and online in his audience building strategy.
 
 Say you have zero audience. You can start building up credibility and a schedule of good client work with networking. Find an entrepreneur meetup in your local market and research the organizer:
 - Where she works
@@ -109,5 +109,5 @@ Brennan's audience building has had great results:
 The power of audience building compounds. He reused skills and savings from one ladder to the next. The result is freedom and leverage from SAAS for Brennan. 
 
 ## Conclusion
-Audience building is the key variable in progressing through Nathan Barry's <a href="https://geofflangenderfer.com/posts/why-you-should-build-an-audience/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>. It allows you to build relationships with your readers. It's a win win in the purest form. There are many channels for audience building. But, they all rely on you putting out content, listening to reception, and adapting. Along the way you learn about your audience: their troubles, what they like, what they will pay for. You use this information to build info products and even software. It's an accessible road-map. You should use it especially if you value freedom.
+Audience building is the key variable in progressing through Nathan Barry's <a href="https://geofflangenderfer.com/posts/why-you-should-go-freelance/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>. It allows you to build relationships with your readers. It's a win win in the purest form. There are many channels for audience building. But, they all rely on you putting out content, listening to reception, and adapting. Along the way you learn about your audience: their troubles, what they like, what they will pay for. You use this information to build info products and even software. It's an accessible road-map. You should use it especially if you value freedom.
 

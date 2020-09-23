@@ -1,5 +1,5 @@
 ---
-title: "Why You Should Build an Audience"
+title: "Why You Should Go Freelance"
 date: 2020-09-17T20:38:01-05:00
 draft: false
 ---
@@ -32,7 +32,7 @@ If you feel ikigai on your death bed, you've lived a fulfilling life.
 ![Ikigai is the intersection][ikigai-photo]
 
 ### Low Barriers to Entry
-The online tools to sustainably reach your audience have never been better:
+The online tools to reach your audience have never been more accessible:
 - Social media for access to new fans
 - Wordpress for publishing on your own property
 - Stripe and Patreon for collecting payments 
@@ -40,27 +40,30 @@ The online tools to sustainably reach your audience have never been better:
 - Youtube and Udemy for skill building
 
 
-The effect is eliminating middlemen that make building an audience of 100 or 1,000 true fans a real possibility. 
+The effect is eliminating middlemen and their revenue cut. That makes building an audience of 100 or 1,000 true fans a real possibility. 
 
 In [1,000 True Fans][3], Kevin Kelly defines a true fan as someone who buys everything you produce. With 1,000 true fans paying you $100/year, you can make a six figure income. For less than $9/month, your true fans can help you turn your shared passion into a career.
 
-This long-tail of micro content-creators is made possible by large tech giants that have driven down the cost of sharing content. Cloud services like AWS and Google Cloud power Twitter and Youtube. 
+Large tech companies enable this long-tail of micro content-creators. Twitter runs on AWS cloud services and Youtube on  Google Cloud. This allows small creators to publish for free. 
 
 ### A Wealth Ladder Stepping Stone
 ![Wealth Ladders][wealth-ladders]
 
-An audience is an accelerator as you climb [wealth ladders][4]. The idea is that you start on the first ladder as an employee. You gain skills and savings on each ladder to propel yourself to the next. The highest ladder is software-as-a-service (SAAS). True passive income and leverage.
+An audience is an accelerator as you climb [wealth ladders][4]. The first ladder has the least leverage. You trade your time for an hourly rate or a salary. The final ladder has the most leverage. You sell a product while you sleep. 
 
-You must consider the worst case scenario before choosing this path. As you move to the next ladder, you need to build new skills. Replacing your previous income could take 1-3 years. If this is a dealbreaker, do not shoot for another ladder.
+The idea is that you start on the first ladder as an hourly worker. You gain skills and savings on each ladder to propel yourself to the next. 
+
+If you can overcome the worst case scenario, you should choose this path. As you transition between ladders, your income will fall. Replacing your previous income could take 1-3 years. If this is a dealbreaker, do not shoot for another ladder. Remain where you're comfortable.
 
 When you build an audience, you're building relationships that lead to sustainability. Your readers enjoy your content. Maybe because you teach them a valuable skill. Maybe for entertainment. The more they read the more they like you. They will support you when you monetize because that's what friends do. A beautiful voluntary exchange. 
 
 ### Less Risky Compared to SAAS
-SAAS is risky because you build a product based on assumptions about your audience. You can de-risk this with a [lean startup][5] approach. But, starting with an audience is an unfair advantage. You deeply understand your audience so you can be more certain about whether an info or software product will resonate. Do you think Sam Harris doubted whether his [app][6] would be a success?
+SAAS is risky because you build a product based on assumptions about your audience. You can de-risk this with a [lean startup][5] approach. But, starting with an audience is an unfair advantage. You  must understand your audience. It will give you clarity on whether an info or software product will resonate. Do you think Sam Harris doubted whether his [app][6] would be a success?
 
 
 ### Conclusion
 The barriers to building an audience have never been lower. Amidst surreal circumstances, there is hope. Build an audience. You can build a sustainable career catering to that audience in a variety of ways. And, you de-risk your approach to a successful SAAS product.
+
 
 
 [0]: https://www.cnbc.com/2020/09/15/a-snapshot-of-the-1point2-trillion-freelance-economy-in-the-us-in-2020.html

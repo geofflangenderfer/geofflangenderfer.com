@@ -10,12 +10,10 @@ I learn a lot reading blogs and twitter feeds. But, I also then think: why would
 Everyone has their own flavor of audience building, but the basics are the same. Go do something that others will find inspiring. Then tell us how you did and how we can, too. Readers will ignore you if you're not credible.
 
 # Table of Contents
-- <a href="#case-studies">Case Studies</a>
 - <a href="#daniel-vassallo">Daniel Vassallo</a>
 - <a href="#nathan-barry">Nathan Barry</a>
 - <a href="#flavio-copes">Flavio Copes</a>
 - <a href="#brennan-dunn">Brennan Dunn</a>
-- <a href="#conclusion">Conclusion</a>
 
 
 ## Case Studies

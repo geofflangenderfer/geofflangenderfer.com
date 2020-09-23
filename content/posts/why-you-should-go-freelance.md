@@ -6,9 +6,9 @@ draft: false
 
 # Intro
 Coronavirus times feel like a science fiction movie:
-- 1/3 of US workforce [worked freelance][0]
-- A video communications stock is up 133% [this year][1]
-- US unemployment has gone from [3.6% to 8.4%][2] since January
+- 1/3 of US workforce <a href="https://www.cnbc.com/2020/09/15/a-snapshot-of-the-1point2-trillion-freelance-economy-in-the-us-in-2020.html" target="_blank">worked freelance</a>
+- A video communications stock is up 133% <a href="https://www.google.com/search?q=zoom+quote" target="_blank">this year</a>
+- US unemployment has gone from <a href="https://tradingeconomics.com/united-states/unemployment-rate" target="_blank">3.6% to 8.4%</a> since January
 
 Uncertainty is high. Jobs are in short supply. Everyone is stuck at home. Yet, the conditions for going independent have never been better.
 
@@ -42,14 +42,14 @@ The online tools to reach your audience have never been more accessible:
 
 The effect is eliminating middlemen and their revenue cut. That makes building an audience of 100 or 1,000 true fans a real possibility. 
 
-In [1,000 True Fans][3], Kevin Kelly defines a true fan as someone who buys everything you produce. With 1,000 true fans paying you $100/year, you can make a six figure income. For less than $9/month, your true fans can help you turn your shared passion into a career.
+In <a href="https://kk.org/thetechnium/1000-true-fans/" target="_blank"></a>[1,000 True Fans], Kevin Kelly defines a true fan as someone who buys everything you produce. With 1,000 true fans paying you $100/year, you can make a six figure income. For less than $9/month, your true fans can help you turn your shared passion into a career.
 
 Large tech companies enable this long-tail of micro content-creators. Twitter runs on AWS cloud services and Youtube on  Google Cloud. This allows small creators to publish for free. 
 
 ### A Wealth Ladder Stepping Stone
 ![Wealth Ladders][wealth-ladders]
 
-An audience is an accelerator as you climb [wealth ladders][4]. The first ladder has the least leverage. You trade your time for an hourly rate or a salary. The final ladder has the most leverage. You sell a product while you sleep. 
+An audience is an accelerator as you climb <a href="https://nathanbarry.com/wealth-creation/" target="_blank">wealth ladders</a>. The first ladder has the least leverage. You trade your time for an hourly rate or a salary. The final ladder has the most leverage. You sell a product while you sleep. 
 
 The idea is that you start on the first ladder as an hourly worker. You gain skills and savings on each ladder to propel yourself to the next. 
 
@@ -58,7 +58,7 @@ If you can overcome the worst case scenario, you should choose this path. As you
 When you build an audience, you're building relationships that lead to sustainability. Your readers enjoy your content. Maybe because you teach them a valuable skill. Maybe for entertainment. The more they read the more they like you. They will support you when you monetize because that's what friends do. A beautiful voluntary exchange. 
 
 ### Less Risky Compared to SAAS
-SAAS is risky because you build a product based on assumptions about your audience. You can de-risk this with a [lean startup][5] approach. But, starting with an audience is an unfair advantage. You  must understand your audience. It will give you clarity on whether an info or software product will resonate. Do you think Sam Harris doubted whether his [app][6] would be a success?
+SAAS is risky because you build a product based on assumptions about your audience. You can de-risk this with a <a href="https://en.wikipedia.org/wiki/Lean_startup" target="_blank">lean startup</a> approach. But, starting with an audience is an unfair advantage. You  must understand your audience. It will give you clarity on whether an info or software product will resonate. Do you think Sam Harris doubted whether his <a href="https://play.google.com/store/apps/details?id=org.wakingup.android&hl=en" target="_blank"></a> would be a success?
 
 
 ### Conclusion
@@ -66,12 +66,5 @@ The barriers to building an audience have never been lower. Amidst surreal circu
 
 
 
-[0]: https://www.cnbc.com/2020/09/15/a-snapshot-of-the-1point2-trillion-freelance-economy-in-the-us-in-2020.html
-[1]: https://www.google.com/search?q=zoom+quote
-[2]: https://tradingeconomics.com/united-states/unemployment-rate
-[3]: https://kk.org/thetechnium/1000-true-fans/
-[4]: https://nathanbarry.com/wealth-creation/
-[5]: https://en.wikipedia.org/wiki/Lean_startup
-[6]: https://play.google.com/store/apps/details?id=org.wakingup.android&hl=en
 [ikigai-photo]: https://www.lavanguardia.com/r/GODO/LV/p7/WebSite/2020/05/12/Recortada/img_jdelriov_20200512-165147_imagenes_lv_terceros_exucaqkwsaeb0ii-k9ZC--656x656@LaVanguardia-Web.jpg
 [wealth-ladders]: https://lh3.googleusercontent.com/qWcgH_BoOwaDJ3f5lo9YG5f4WCKaLRwWYQZCb4aEJWA41Fm1KDVjLu5B9LudqY_1W6NwI0eSTtb5R8F1FmD2fcmSg-UcnhebLyh2dDyCQ_f1WpoWGna3WyuM1txea36M2T54v_T5

@@ -69,10 +69,10 @@ Flavio's skills have made him the most prolific blogger in web development. Here
 Every week, his audience learns exciting new concepts in web development. Flavio has built a successful career doing this. We can learn from his example and attempt to approach his prolific publishing.
 
 ### Brennan Dunn
-<a href="http://doubleyourfreelancing.com/" target="_blank">Brennan Dunn</a> has been:
-- a freelance software developer
-- sold info products
-- and is currently running a SAAS business. 
+<a href="http://doubleyourfreelancing.com/" target="_blank">Brennan Dunn</a>:
+- has been a freelance software developer
+- has sold info products
+- is currently running a SAAS business
 
 He's climbed all the <a href="https://geofflangenderfer.com/posts/why-you-should-go-freelance/#a-wealth-ladder-stepping-stone" target="_blank">wealth ladders</a>, so he has much to teach. He combines offline and online in his audience building strategy.
 

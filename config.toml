@@ -1,7 +1,7 @@
 # https://github.com/vividvilla/ezhil
 baseURL = "https://geofflangenderfer.com/"
 languageCode = "en-us"
-title = "Geoff on Software"
+title = "Geoff Langenderfer"
 theme = "ezhil"
 
 #copyright = "© Copyright notice"
@@ -24,7 +24,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Seeking freedom and mastery"
+    subtitle = "On Perpetual Unemployment"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]

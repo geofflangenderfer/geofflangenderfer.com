@@ -25,7 +25,7 @@ The internet gives every person a shot at 7 billion people. The world population
 
 The lower Mexican COL gives you room to experiment. With ecommerce, digital marketing, coding, design, or copywriting. The limit is your imagination. 
 
-You can make small bets like $200 on a facebook ads course and be ok if it doesn't work.
+You can make small bets like $200 on a facebook ads course and survive if it doesn't work.
 
 ## Work From Home (WFH)
 Many companies are allowing employees to work from home. This means you can move. Zoom works fine in Mexico. 

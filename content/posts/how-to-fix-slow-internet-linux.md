@@ -12,7 +12,7 @@ Installing the correct drivers sped things up.
 # How did you do it?
 
 - find your specific wireless card info
-```
+```bash
 $ lspci -vnn | grep Network 
 02:00.0 Network controller [0280]: Broadcom Inc. and subsidiaries BCM43228 802.11a/b/g/n [14e4:4359]
 ```
@@ -22,7 +22,7 @@ $ lspci -vnn | grep Network
     - lookup matching row in table to find drivers to install
     - install required drivers
 
-```
+```bash
 git clone https://aur.archlinux.org/b43-firmware.git ~/.b43-firmware
 cd .b43-firmware
 makepkg -si

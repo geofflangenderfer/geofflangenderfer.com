@@ -1,5 +1,5 @@
 # https://github.com/vividvilla/ezhil
-baseURL = "https://geofflangenderfer.com/"
+baseURL = "https://geoff.wiki/"
 languageCode = "en-us"
 title = "Geoff Langenderfer"
 theme = "ezhil"
@@ -100,7 +100,7 @@ url = "https://www.youtube.com/channel/UCxvdVAQ4OMzsWA4LloCeHng"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/g_langenderfer"
+url = "https://twitter.com/geoff_l"
 
 # Enable tags.
 [taxonomies]

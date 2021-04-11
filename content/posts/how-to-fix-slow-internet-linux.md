@@ -17,7 +17,7 @@ $ lspci -vnn | grep Network
 02:00.0 Network controller [0280]: Broadcom Inc. and subsidiaries BCM43228 802.11a/b/g/n [14e4:4359]
 ```
 - search google "\< your-driver-keywords \> driver install" (i.e. bcm driver install)
-- grab first link and follow instructions
+- grab first link and follow instructions (https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers)
     - find 4 alphanumerics separated by ":" and surrounded by "[]" (i.e. [14e4:4359])
     - lookup matching row in table to find drivers to install
     - install required drivers

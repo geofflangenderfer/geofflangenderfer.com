@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Slow Internet Linux"
 date: 2021-03-10T12:00:05-05:00
-draft: false
+draft: true
 ---
 
 # Summary
